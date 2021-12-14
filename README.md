@@ -1,6 +1,6 @@
 # Prime
 ScreenShots
- there so many functionalites like, video player to show movies and series
+ there are so many functionalites like, video player to show movies and series
 1.Google and facebook login and normal login
 2.language changing i.e hindi and English
 3. Offline Downloading
